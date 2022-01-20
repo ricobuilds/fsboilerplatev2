@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import "./index.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="flex flex-col w-full min-h-screen ">
+      <div className="bg-gray-900 h-12  w-full flex items-center px-4 underline text-white">
+        <span>Hello BoilerplateV2</span>
+      </div>
+      <div className="bg-gray-900 flex p-4 flex-grow w-full text-white">
+        <span>Server: Hello, No0bDev3l0per#3033</span>
+      </div>
     </div>
   );
 }
