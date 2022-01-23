@@ -1,7 +1,8 @@
 # Fullstack Boilerplate V2
+[STATUS] Partially Complete
 
 This boilerplate is an improvement of my previous boilerplate that I utilised for Web3 projects - consists of my favourite frontend technologies along with industry standard tools for development, like Hardhat and Ethers.js.
-
+addressaddressv
 ## Tech Used
 ### Dependencies
 - ReactJS(JavaScript) > frontend
