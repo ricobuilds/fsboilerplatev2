@@ -2,12 +2,17 @@
 [STATUS] Partially Complete
 
 This boilerplate is an improvement of my previous boilerplate that I utilised for Web3 projects - consists of my favourite frontend technologies along with industry standard tools for development, like Hardhat and Ethers.js.
-addressaddressv
+
+`NOTE: To remove any packages, simply run "yarn remove <package_name"`
+
 ## Dependencies
 - ReactJS(JavaScript) > frontend
 - TailwindCSS > component styling
 - DotEnv > mask key variables
 - OpenZeppelin > industry standard utility lib for Solidity
+- Hardhat > local env
+- Ethers > blockchain interaction
+- web3modal > modal for 
 ## Structure
 Src/ contains three folders that I've included:
 
@@ -15,4 +20,21 @@ Src/ contains three folders that I've included:
 - ⚖ Context > hosts logic for processing
 - ⛓ Hooks > my custom Hooks that I find useful for dApp development
 
+## Suggestions
+These are a few packages you can can also include yourself:
+- AXIOS > for external API interaction (axios)
+- IPFS HTTP Client > forIPFS interaction (ipfs-http-client@50.1.2/ipfs-http-client@latest)
+
 [PS] This repo is subject to change to ensure that it allows for quick plugin 'n' play to streamline the development process.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat accounts
+npx hardhat compile
+npx hardhat clean
+npx hardhat test
+npx hardhat node
+node scripts/sample-script.js
+npx hardhat help
+```
