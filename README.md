@@ -10,9 +10,10 @@ This boilerplate is an improvement of my previous boilerplate that I utilised fo
 - TailwindCSS > component styling
 - DotEnv > mask key variables
 - OpenZeppelin > industry standard utility lib for Solidity
-- Hardhat > local env
+- Moralis > blockchain & database interaction
 - Ethers > blockchain interaction
-- web3modal > modal for 
+- Hardhat > local env
+- web3modal > modal for web3 wallet selection (UX) e.g. Metamask, TrustWallet etc
 ## Structure
 Src/ contains three folders that I've included:
 
