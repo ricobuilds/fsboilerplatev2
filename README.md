@@ -13,7 +13,7 @@ This boilerplate is an improvement of my previous boilerplate that I utilised fo
 - Moralis > blockchain & database interaction
 - Ethers > blockchain interaction (prod/dev env)
 - Hardhat > local dev env
-- web3modal > modal for web3 wallet selection (UX) e.g. Metamask, TrustWallet etc
+- Web3modal > modal for web3 wallet selection (UX) e.g. Metamask, TrustWallet etc
 ## Structure
 Src/ contains three folders that I've included:
 
@@ -23,8 +23,8 @@ Src/ contains three folders that I've included:
 
 ## Suggestions
 These are a few packages you can can also include yourself:
-- AXIOS > for external API interaction (axios)
-- IPFS HTTP Client > forIPFS interaction (ipfs-http-client@50.1.2/ipfs-http-client@latest)
+- AXIOS > for external API interaction
+- IPFS HTTP Client > for IPFS interaction
 
 [PS] This repo is subject to change to ensure that it allows for quick plug 'n' play, streamlining the development process.
 
