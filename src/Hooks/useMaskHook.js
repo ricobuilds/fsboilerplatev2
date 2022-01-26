@@ -1,7 +1,8 @@
 /* 
-Use: This is a hook that allows you to use a mask to hide the output of a function
-Example: Partially masnking an EOA address
-Params: String: address, Integer: endCharCount, Integer: dotCount
+Use: This is a hook that allows you to use a mask to mask the output of a function
+Params: address, Integer: endCharCount, Integer: dotCount
+Process: procress the string and mask the output
+Present: updated string content like "0xc1...cb39"
 */
 export const useMaskHook = (address, firstCharCount = address.length, endCharCount = 0, dotCount = 3) => {
   let convertedAddress = "";
