@@ -14,7 +14,7 @@ function App() {
         <meta name="revisit-after" content="1 days" />
         <meta name="language" content="en" />
       </Helmet>
-      <div className="flex flex-col w-full min-h-screen bg-[#231F20]">">
+      <div className="flex flex-col w-full min-h-screen bg-[#231F20]">
         <div className="h-12  w-full flex items-center px-4 underline text-white">
           <span>Hello BoilerplateV2</span>
         </div>
