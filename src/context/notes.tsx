@@ -1,0 +1,1 @@
+// dir hosts state management code, whether it is Context or Redux
