@@ -1,6 +1,4 @@
 # Fullstack Boilerplate V2
-[STATUS] Partially Complete
-
 This boilerplate is an improvement of my previous boilerplate with tool I use for Web3 projects.
 
 ## Dependencies
