@@ -1,5 +1,5 @@
 # Fullstack Boilerplate V2
-This boilerplate is an improvement of my previous boilerplate with tool I use for Web3 projects.
+This boilerplate is an improvement of my previous boilerplate with tool I use for Web3 projects, where one can choose whether to use Context or Redux depending of a project's size.
 
 ## Dependencies
 - TypeScript(React) > frontend
@@ -9,7 +9,7 @@ This boilerplate is an improvement of my previous boilerplate with tool I use fo
 - Moralis > blockchain & database interaction
 - Ethers > blockchain interaction (prod/dev env)
 - Hardhat > local dev env
-- Web3modal > modal for web3 wallet selection (UX) e.g. Metamask, TrustWallet etc
+- Web3modal > modal for web3 wallet selection (UX) e.g. Metamask, TrustWallet
 ## Structure
 Src/ contains three folders that I've included:
 
