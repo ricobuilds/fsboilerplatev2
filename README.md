@@ -6,7 +6,7 @@ This boilerplate is an improvement of my previous boilerplate that I utilised fo
 `NOTE: To remove any packages, simply run "yarn remove <package_name"`
 
 ## Dependencies
-- ReactJS(JavaScript) > frontend
+- TypeScript(React) > frontend
 - TailwindCSS > component styling
 - DotEnv > mask key variables
 - OpenZeppelin > industry standard utility lib for Solidity
@@ -17,9 +17,9 @@ This boilerplate is an improvement of my previous boilerplate that I utilised fo
 ## Structure
 Src/ contains three folders that I've included:
 
-- 🗂 Components > hosts all the components that make up the dApp
-- ⚖ Context > hosts state values for processing and distribution
-- ⛓ Hooks > my custom Hooks that I find useful for dApp development (NOTE: will add more of the gradually)
+- 🗂 Components > host all the components that make up the dApp
+- ⚖ Context > host state management for data processing
+- ⛓ Hooks > may inc. my custom Hooks that I find useful for dApp development (NOTE: I'll add more gradually)
 
 ## Suggestions
 These are a few packages you can can also include yourself:
