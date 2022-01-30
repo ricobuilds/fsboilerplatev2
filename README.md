@@ -25,6 +25,7 @@ Src/ contains three folders that I've included:
 These are a few packages you can can also include yourself:
 - AXIOS > for external API interaction
 - IPFS HTTP Client > for IPFS interaction
+- React Router DOM & React Helmet Async for SEO
 
 [PS] This repo is subject to change to ensure that it allows for quick plug 'n' play, streamlining the development process.
 
