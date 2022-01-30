@@ -15,4 +15,4 @@ Src/ contains three folders that I've included:
 
 - 🗂 Components > host all the components that make up the dApp
 - ⚖ Context > host state management for data processing (Context o Redux)
-- ⛓ Hooks > may inc. my custom Hooks that I find useful for dApp development (NOTE: I'll add more occassionally)
+- ⛓ Hooks > may inc. my custom Hooks that I find useful for dApp development
