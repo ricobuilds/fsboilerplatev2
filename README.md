@@ -1,5 +1,5 @@
 # Fullstack Boilerplate V2
-This boilerplate is an improvement of my previous boilerplate with tool I use for Web3 projects, where one can choose whether to use Context or Redux depending of a project's size.
+This boilerplate is an improvement of my previous boilerplate with tool I use for Web3 projects.
 
 ## Dependencies
 - TypeScript(React) > frontend
@@ -14,5 +14,5 @@ This boilerplate is an improvement of my previous boilerplate with tool I use fo
 Src/ contains three folders that I've included:
 
 - 🗂 Components > host all the components that make up the dApp
-- ⚖ Context > host state management for data processing
+- ⚖ Context > host state management for data processing (Context o Redux)
 - ⛓ Hooks > may inc. my custom Hooks that I find useful for dApp development (NOTE: I'll add more occassionally)
