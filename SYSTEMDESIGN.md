@@ -1,5 +1,5 @@
 # SYSTEM DESIGN
-
+This is made up of the foundational stylings that I consistently add to any projects I work on.
 ## BACKGROUND
 - White: bg-[#f2f2f2]
 - Dark: bg-[#1f1f23]
